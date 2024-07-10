@@ -1,3 +1,5 @@
 Flask==2.1.1
 Pillow==9.0.1
-stegano==0.1.2
+pip install stegano==0.11.3
+pip install --upgrade pip setuptools
+
